@@ -177,14 +177,3 @@ EventSphere supports free and paid event bookings. Payment is handled manually b
 - Add additional booking management features.
 - Improve the overall user interface and experience.
 
-## Acknowledgement
-
-This project is based on the open-source **Eventora MERN application**.
-
-Original repository: https://github.com/ShivaMani02/Eventora-MERN
-
-The original project and its contributors are acknowledged. EventSphere is the working name for the customised version, and additional modifications will be documented separately.
-
-## License
-
-Refer to the original repository's license before redistributing or publishing a modified version.
